@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Keyboard</string>
+    <string name="keyboard_name">Custom Keyboard</string>
+    <string name="enable_keyboard">Enable Keyboard</string>
+    <string name="keyboard_instruction">To use this keyboard, follow these steps:\n\n1. Click \'Enable Keyboard\' button below\n2. Enable \'Custom Keyboard\' in the settings\n3. Select \'Custom Keyboard\' as your default keyboard</string>
+    <string name="settings_instruction">In Settings → System → Languages &amp; input → Virtual keyboard, enable \'Custom Keyboard\'</string>
+</resources>
